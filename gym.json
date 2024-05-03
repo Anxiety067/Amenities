@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9759131, 28.2593894] },
+      "properties": {
+        "Amenities": "Gym",
+        "Name": "The Giant Fitness and Health Club",
+        "Opening_Ti": "05:00:00.000+05:45",
+        "Closing_Ti": "21:00:00.000+05:45",
+        "Contact_No": 9846022716,
+        "_Locaton_l": 28.2593894,
+        "_Locaton_1": 83.9759131
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9740917, 28.2567283] },
+      "properties": {
+        "Amenities": "Gym",
+        "Name": "Jay Shiva Shambho Gym and Fitness",
+        "Opening_Ti": "05:00:00.000+05:45",
+        "Closing_Ti": "20:00:00.000+05:45",
+        "Contact_No": 9846023753,
+        "_Locaton_l": 28.2567283,
+        "_Locaton_1": 83.9740917
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9837682, 28.2598113] },
+      "properties": {
+        "Amenities": "Gym",
+        "Name": "Open Gym",
+        "Opening_Ti": "",
+        "Closing_Ti": "",
+        "Contact_No": 0,
+        "_Locaton_l": 28.2598113,
+        "_Locaton_1": 83.9837682
+      }
+    }
+  ]
+}

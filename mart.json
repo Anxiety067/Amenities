@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.977509, 28.2565991] },
+      "properties": {
+        "Amenities": "Mart",
+        "Name": "New Thapa Store",
+        "Opening_Ti": "06:00:00.000+05:45",
+        "Closing_Ti": "08:00:00.000+05:45",
+        "Contact_No": 61440891,
+        "_Locaton_l": 28.2565991,
+        "_Locaton_1": 83.977509,
+        "Image": "thapa.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9763729, 28.2586189] },
+      "properties": {
+        "Amenities": "Mart",
+        "Name": "Bindabasini Cheura Udhyog",
+        "Opening_Ti": "06:30:00.000+05:45",
+        "Closing_Ti": "19:30:00.000+05:45",
+        "Contact_No": 9856033262,
+        "_Locaton_l": 28.2586189,
+        "_Locaton_1": 83.9763729
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9783211, 28.2558745] },
+      "properties": {
+        "Amenities": "Mart",
+        "Name": "Bhandari Kirana Pasal",
+        "Opening_Ti": "06:30:00.000+05:45",
+        "Closing_Ti": "21:30:00.000+05:45",
+        "Contact_No": 985608851,
+        "_Locaton_l": 28.2558745,
+        "_Locaton_1": 83.9783211
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9712798, 28.2606592] },
+      "properties": {
+        "Amenities": "Mart",
+        "Name": "Big Bazar Departmental Store",
+        "Opening_Ti": "07:00:00.000+05:45",
+        "Closing_Ti": "20:00:00.000+05:45",
+        "Contact_No": 9804111310,
+        "_Locaton_l": 28.2606592,
+        "_Locaton_1": 83.9712798
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9718016, 28.2610733] },
+      "properties": {
+        "Amenities": "Mart",
+        "Name": "Baniya Shopping Centre",
+        "Opening_Ti": "06:00:00.000+05:45",
+        "Closing_Ti": "19:30:00.000+05:45",
+        "Contact_No": 61443259,
+        "_Locaton_l": 28.2610733,
+        "_Locaton_1": 83.9718016
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9723606, 28.2617751] },
+      "properties": {
+        "Amenities": "Mart",
+        "Name": "Lamachaur Traders",
+        "Opening_Ti": "07:00:00.000+05:45",
+        "Closing_Ti": "20:00:00.000+05:45",
+        "Contact_No": 9856022230,
+        "_Locaton_l": 28.2617751,
+        "_Locaton_1": 83.9723606
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9797901, 28.2660902] },
+      "properties": {
+        "Amenities": "Mart",
+        "Name": "ABC mini mart",
+        "Opening_Ti": "07:00:00.000+05:45",
+        "Closing_Ti": "23:00:00.000+05:45",
+        "Contact_No": 9817149476,
+        "_Locaton_l": 28.2660902,
+        "_Locaton_1": 83.9797901
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9774388, 28.2585982] },
+      "properties": {
+        "Amenities": "Mart",
+        "Name": "Lamachaur Grocery Stores",
+        "Opening_Ti": "07:00:00.000+05:45",
+        "Closing_Ti": "20:00:00.000+05:45",
+        "Contact_No": 9846043949,
+        "_Locaton_l": 28.2585982,
+        "_Locaton_1": 83.9774388
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9866867, 28.2481121] },
+      "properties": {
+        "Amenities": "Mart",
+        "Name": "PKB shopping center",
+        "Opening_Ti": "06:00:00.000+05:45",
+        "Closing_Ti": "22:00:00.000+05:45",
+        "Contact_No": 9866762142,
+        "_Locaton_l": 28.2481121,
+        "_Locaton_1": 83.9866867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9867935, 28.2472722] },
+      "properties": {
+        "Amenities": "Mart",
+        "Name": "Bhaskar shopping center",
+        "Opening_Ti": "06:00:00.000+05:45",
+        "Closing_Ti": "22:00:00.000+05:45",
+        "Contact_No": 9847620796,
+        "_Locaton_l": 28.2472722,
+        "_Locaton_1": 83.9867935
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9883206, 28.2462096] },
+      "properties": {
+        "Amenities": "Mart",
+        "Name": "Kyaa",
+        "Opening_Ti": "07:30:00.000+05:45",
+        "Closing_Ti": "20:00:00.000+05:45",
+        "Contact_No": 46030699,
+        "_Locaton_l": 28.2462096,
+        "_Locaton_1": 83.9883206
+      }
+    }
+  ]
+}

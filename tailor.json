@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.977581, 28.2569631] },
+      "properties": {
+        "Amenities": "Tailor",
+        "Name": "Ram Tailors",
+        "Opening_Ti": "07:30:00.000+05:45",
+        "Closing_Ti": "18:00:00.000+05:45",
+        "Contact_No": 9803987591,
+        "_Locaton_l": 28.2569631,
+        "_Locaton_1": 83.977581
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9750842, 28.2601478] },
+      "properties": {
+        "Amenities": "Tailor",
+        "Name": "Avinav Bikram Tailors",
+        "Opening_Ti": "07:00:00.000+05:45",
+        "Closing_Ti": "19:00:00.000+05:45",
+        "Contact_No": 9846421887,
+        "_Locaton_l": 28.2601478,
+        "_Locaton_1": 83.9750842
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9718592, 28.261829] },
+      "properties": {
+        "Amenities": "Tailor",
+        "Name": "Aashika tailors",
+        "Opening_Ti": "07:00:00.000+05:45",
+        "Closing_Ti": "19:00:00.000+05:45",
+        "Contact_No": 9806623690,
+        "_Locaton_l": 28.261829,
+        "_Locaton_1": 83.9718592
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9770607, 28.2583502] },
+      "properties": {
+        "Amenities": "Tailor",
+        "Name": "Aasish Fancy nd Tailor",
+        "Opening_Ti": "07:00:00.000+05:45",
+        "Closing_Ti": "19:00:00.000+05:45",
+        "Contact_No": 9800504148,
+        "_Locaton_l": 28.2583502,
+        "_Locaton_1": 83.9770607
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9887892, 28.243845] },
+      "properties": {
+        "Amenities": "Hospital",
+        "Name": "Deep hospital",
+        "Opening_Ti": "",
+        "Closing_Ti": "",
+        "Contact_No": 61580058,
+        "_Locaton_l": 28.243845,
+        "_Locaton_1": 83.9887892
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9815687, 28.2583213] },
+      "properties": {
+        "Amenities": "Hospital",
+        "Name": "Matrishisu MteriHospital",
+        "Opening_Ti": "",
+        "Closing_Ti": "",
+        "Contact_No": 61443144,
+        "_Locaton_l": 28.2583213,
+        "_Locaton_1": 83.9815687
+      }
+    }
+  ]
+}

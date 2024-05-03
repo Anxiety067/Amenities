@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9714735, 28.2607026] },
+      "properties": {
+        "Amenities": "Saloon",
+        "Name": "Ankit handsome parlour & sailoon",
+        "Opening_Ti": "07:30:00.000+05:45",
+        "Closing_Ti": "19:30:00.000+05:45",
+        "Contact_No": 9827178929,
+        "_Locaton_l": 28.2607026,
+        "_Locaton_1": 83.9714735
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9724316, 28.2613821] },
+      "properties": {
+        "Amenities": "Saloon",
+        "Name": "Sachin haircutting & handsome parlour",
+        "Opening_Ti": "06:00:00.000+05:45",
+        "Closing_Ti": "20:30:00.000+05:45",
+        "Contact_No": 9826135498,
+        "_Locaton_l": 28.2613821,
+        "_Locaton_1": 83.9724316
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9777781, 28.2563505] },
+      "properties": {
+        "Amenities": "Saloon",
+        "Name": "Namaskar haircutting saloon & parlour",
+        "Opening_Ti": "07:00:00.000+05:45",
+        "Closing_Ti": "19:30:00.000+05:45",
+        "Contact_No": 9846483533,
+        "_Locaton_l": 28.2563505,
+        "_Locaton_1": 83.9777781
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.972865, 28.2613117] },
+      "properties": {
+        "Amenities": "Saloon",
+        "Name": "Namaskar Barbar Shop",
+        "Opening_Ti": "07:00:00.000+05:45",
+        "Closing_Ti": "19:00:00.000+05:45",
+        "Contact_No": 9846463533,
+        "_Locaton_l": 28.2613117,
+        "_Locaton_1": 83.972865
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.978059, 28.2559813] },
+      "properties": {
+        "Amenities": "Saloon",
+        "Name": "Bethany Barber Shop",
+        "Opening_Ti": "08:00:00.000+05:45",
+        "Closing_Ti": "20:00:00.000+05:45",
+        "Contact_No": 9846082256,
+        "_Locaton_l": 28.2559813,
+        "_Locaton_1": 83.978059
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9882958, 28.2461547] },
+      "properties": {
+        "Amenities": "Saloon",
+        "Name": "Barber club",
+        "Opening_Ti": "09:00:00.000+05:45",
+        "Closing_Ti": "19:00:00.000+05:45",
+        "Contact_No": 9806712605,
+        "_Locaton_l": 28.2461547,
+        "_Locaton_1": 83.9882958
+      }
+    }
+  ]
+}

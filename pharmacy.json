@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9728641, 28.2611221] },
+      "properties": {
+        "Amenities": "Pharmacy",
+        "Name": "Shrijana medical health clinic",
+        "Opening_Ti": "06:30:00.000+05:45",
+        "Closing_Ti": "20:30:00.000+05:45",
+        "Contact_No": 64798343,
+        "_Locaton_l": 28.2611221,
+        "_Locaton_1": 83.9728641
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9778667, 28.2562688] },
+      "properties": {
+        "Amenities": "Pharmacy",
+        "Name": "Anirag medical clinic",
+        "Opening_Ti": "07:00:00.000+05:45",
+        "Closing_Ti": "21:00:00.000+05:45",
+        "Contact_No": 9846287960,
+        "_Locaton_l": 28.2562688,
+        "_Locaton_1": 83.9778667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.979802, 28.2630201] },
+      "properties": {
+        "Amenities": "Pharmacy",
+        "Name": "Sharmila medical hall",
+        "Opening_Ti": "07:00:00.000+05:45",
+        "Closing_Ti": "19:30:00.000+05:45",
+        "Contact_No": 9846031332,
+        "_Locaton_l": 28.2630201,
+        "_Locaton_1": 83.979802
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9776567, 28.2568177] },
+      "properties": {
+        "Amenities": "Pharmacy",
+        "Name": "Get Well Medical",
+        "Opening_Ti": "07:00:00.000+05:45",
+        "Closing_Ti": "21:00:00.000+05:45",
+        "Contact_No": 9846077588,
+        "_Locaton_l": 28.2568177,
+        "_Locaton_1": 83.9776567
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9769127, 28.2579446] },
+      "properties": {
+        "Amenities": "Pharmacy",
+        "Name": "Samyam Medical Center",
+        "Opening_Ti": "07:00:00.000+05:45",
+        "Closing_Ti": "20:00:00.000+05:45",
+        "Contact_No": 9856082817,
+        "_Locaton_l": 28.2579446,
+        "_Locaton_1": 83.9769127
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9719827, 28.261651] },
+      "properties": {
+        "Amenities": "Pharmacy",
+        "Name": "Aacharya Health Clinic",
+        "Opening_Ti": "07:00:00.000+05:45",
+        "Closing_Ti": "22:00:00.000+05:45",
+        "Contact_No": 9856080333,
+        "_Locaton_l": 28.261651,
+        "_Locaton_1": 83.9719827
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9798557, 28.2646976] },
+      "properties": {
+        "Amenities": "Pharmacy",
+        "Name": "Anup Pharmacy",
+        "Opening_Ti": "08:00:00.000+05:45",
+        "Closing_Ti": "20:00:00.000+05:45",
+        "Contact_No": 9815129826,
+        "_Locaton_l": 28.2646976,
+        "_Locaton_1": 83.9798557
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9866212, 28.2479888] },
+      "properties": {
+        "Amenities": "Pharmacy",
+        "Name": "Nawajivan Darshan pharmacy",
+        "Opening_Ti": "06:00:00.000+05:45",
+        "Closing_Ti": "19:00:00.000+05:45",
+        "Contact_No": 9856017824,
+        "_Locaton_l": 28.2479888,
+        "_Locaton_1": 83.9866212
+      }
+    }
+  ]
+}

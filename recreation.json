@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9723556, 28.2602985] },
+      "properties": {
+        "Amenities": "Recreation",
+        "Name": "Lamachour church",
+        "Opening_Ti": "06:00:00.000+05:45",
+        "Closing_Ti": "07:00:00.000+05:45",
+        "Contact_No": 61441255,
+        "_Locaton_l": 28.2602985,
+        "_Locaton_1": 83.9723556
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9726349, 28.2620069] },
+      "properties": {
+        "Amenities": "Recreation",
+        "Name": "Himaz cinema",
+        "Opening_Ti": "11:00:00.000+05:45",
+        "Closing_Ti": "02:00:00.000+05:45",
+        "Contact_No": 61444444,
+        "_Locaton_l": 28.2620069,
+        "_Locaton_1": 83.9726349
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9735, 28.263807] },
+      "properties": {
+        "Amenities": "Recreation",
+        "Name": "Thuli pokhari Jaleshowr shiva temple",
+        "Opening_Ti": "05:00:00.000+05:45",
+        "Closing_Ti": "20:00:00.000+05:45",
+        "Contact_No": 0,
+        "_Locaton_l": 28.263807,
+        "_Locaton_1": 83.9735
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9737313, 28.2637482] },
+      "properties": {
+        "Amenities": "Recreation",
+        "Name": "Sahid bhawana smriti park",
+        "Opening_Ti": "",
+        "Closing_Ti": "",
+        "Contact_No": 0,
+        "_Locaton_l": 28.2637482,
+        "_Locaton_1": 83.9737313
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.974489, 28.2645608] },
+      "properties": {
+        "Amenities": "Recreation",
+        "Name": "Way to gharmi",
+        "Opening_Ti": "",
+        "Closing_Ti": "",
+        "Contact_No": 0,
+        "_Locaton_l": 28.2645608,
+        "_Locaton_1": 83.974489
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.97441, 28.264605] },
+      "properties": {
+        "Amenities": "Recreation",
+        "Name": "Dhiki jato",
+        "Opening_Ti": "",
+        "Closing_Ti": "",
+        "Contact_No": 0,
+        "_Locaton_l": 28.264605,
+        "_Locaton_1": 83.97441
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9804684, 28.2626077] },
+      "properties": {
+        "Amenities": "Recreation",
+        "Name": "Ma kalika mandir",
+        "Opening_Ti": "",
+        "Closing_Ti": "",
+        "Contact_No": 0,
+        "_Locaton_l": 28.2626077,
+        "_Locaton_1": 83.9804684
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.974352, 28.2645935] },
+      "properties": {
+        "Amenities": "Recreation",
+        "Name": "Dhiki Jato",
+        "Opening_Ti": "",
+        "Closing_Ti": "",
+        "Contact_No": 0,
+        "_Locaton_l": 28.2645935,
+        "_Locaton_1": 83.974352
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9755191, 28.266224] },
+      "properties": {
+        "Amenities": "Recreation",
+        "Name": "Pokhara Planetarium and Science Centre",
+        "Opening_Ti": "06:00:00.000+05:45",
+        "Closing_Ti": "18:00:00.000+05:45",
+        "Contact_No": 9856087780,
+        "_Locaton_l": 28.266224,
+        "_Locaton_1": 83.9755191
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9760395, 28.2673344] },
+      "properties": {
+        "Amenities": "Recreation",
+        "Name": "Bat Cave",
+        "Opening_Ti": "05:00:00.000+05:45",
+        "Closing_Ti": "17:00:00.000+05:45",
+        "Contact_No": 0,
+        "_Locaton_l": 28.2673344,
+        "_Locaton_1": 83.9760395
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9794334, 28.2711542] },
+      "properties": {
+        "Amenities": "Recreation",
+        "Name": "Mahendra Cave",
+        "Opening_Ti": "05:00:00.000+05:45",
+        "Closing_Ti": "17:00:00.000+05:45",
+        "Contact_No": 61440065,
+        "_Locaton_l": 28.2711542,
+        "_Locaton_1": 83.9794334
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9885524, 28.246103] },
+      "properties": {
+        "Amenities": "Recreation",
+        "Name": "Gorkha Memorial museum",
+        "Opening_Ti": "08:00:00.000+05:45",
+        "Closing_Ti": "16:30:00.000+05:45",
+        "Contact_No": 66444762,
+        "_Locaton_l": 28.246103,
+        "_Locaton_1": 83.9885524
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.989285, 28.2459037] },
+      "properties": {
+        "Amenities": "Recreation",
+        "Name": "KI Singh pool",
+        "Opening_Ti": "07:30:00.000+05:45",
+        "Closing_Ti": "17:30:00.000+05:45",
+        "Contact_No": 9804189870,
+        "_Locaton_l": 28.2459037,
+        "_Locaton_1": 83.989285
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9765783, 28.2550576] },
+      "properties": {
+        "Amenities": "Recreation",
+        "Name": "WRC Centre RIC",
+        "Opening_Ti": "",
+        "Closing_Ti": "",
+        "Contact_No": 0,
+        "_Locaton_l": 28.2550576,
+        "_Locaton_1": 83.9765783
+      }
+    }
+  ]
+}

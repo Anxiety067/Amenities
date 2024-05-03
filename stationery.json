@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.977592, 28.2569439] },
+      "properties": {
+        "Amenities": "Stationery",
+        "Name": "Lamachour stationery",
+        "Opening_Ti": "05:45:00.000+05:45",
+        "Closing_Ti": "20:30:00.000+05:45",
+        "Contact_No": 9846146264,
+        "_Locaton_l": 28.2569439,
+        "_Locaton_1": 83.977592
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9798262, 28.2629564] },
+      "properties": {
+        "Amenities": "Stationery",
+        "Name": "Darsan pustak pasal and stationery",
+        "Opening_Ti": "08:00:00.000+05:45",
+        "Closing_Ti": "19:30:00.000+05:45",
+        "Contact_No": 61444131,
+        "_Locaton_l": 28.2629564,
+        "_Locaton_1": 83.9798262
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9776329, 28.2563883] },
+      "properties": {
+        "Amenities": "Stationery",
+        "Name": "Bani Edu Store",
+        "Opening_Ti": "05:30:00.000+05:45",
+        "Closing_Ti": "19:00:00.000+05:45",
+        "Contact_No": 9802381886,
+        "_Locaton_l": 28.2563883,
+        "_Locaton_1": 83.9776329
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9776289, 28.2563239] },
+      "properties": {
+        "Amenities": "Stationery",
+        "Name": "Infomax Stationery",
+        "Opening_Ti": "05:45:00.000+05:45",
+        "Closing_Ti": "20:00:00.000+05:45",
+        "Contact_No": 9856013073,
+        "_Locaton_l": 28.2563239,
+        "_Locaton_1": 83.9776289
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9722848, 28.2616739] },
+      "properties": {
+        "Amenities": "Stationery",
+        "Name": "Ekta Books Distributors",
+        "Opening_Ti": "07:00:00.000+05:45",
+        "Closing_Ti": "20:00:00.000+05:45",
+        "Contact_No": 61443409,
+        "_Locaton_l": 28.2616739,
+        "_Locaton_1": 83.9722848
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9799913, 28.263174] },
+      "properties": {
+        "Amenities": "Stationery",
+        "Name": "Radha Photo Studio And Stationery",
+        "Opening_Ti": "07:00:00.000+05:45",
+        "Closing_Ti": "19:00:00.000+05:45",
+        "Contact_No": 9806778503,
+        "_Locaton_l": 28.263174,
+        "_Locaton_1": 83.9799913
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9864466, 28.2480784] },
+      "properties": {
+        "Amenities": "Stationery",
+        "Name": "Sunrise stationery nd gift shop",
+        "Opening_Ti": "07:00:00.000+05:45",
+        "Closing_Ti": "19:00:00.000+05:45",
+        "Contact_No": 9866348425,
+        "_Locaton_l": 28.2480784,
+        "_Locaton_1": 83.9864466
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [83.9883418, 28.2460183] },
+      "properties": {
+        "Amenities": "Stationery",
+        "Name": "Ambika cosmetic nd stationery",
+        "Opening_Ti": "07:00:00.000+05:45",
+        "Closing_Ti": "20:00:00.000+05:45",
+        "Contact_No": 9846196566,
+        "_Locaton_l": 28.2460183,
+        "_Locaton_1": 83.9883418
+      }
+    }
+  ]
+}
